@@ -1,2 +1,3 @@
-# icons
-icons generated from non-copyrighted images
+# Icons
+
+Royalty free icons and images.
